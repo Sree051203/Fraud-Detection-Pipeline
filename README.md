@@ -51,9 +51,14 @@
 - 📏 **REST API with Flask or FastAPI**
  
 🙋‍♀️ About the Author
+
 Sreelakshmi M
+
 AI / Data Science Engineer
+
 📍 Kerala, India
+
 🔗 [LinkedIn](https://www.linkedin.com/in/msreelakshmi/) | [GitHub](https://github.com/Sree051203)
+
 ✉️ sreelakshmi.ai2021@gmail.com
 
