@@ -49,20 +49,21 @@
 
 Fraud-Detection-Pipeline/
 │
+|
 ├── Fraud_Detection_Pipeline.py # ML pipeline code
+|
 ├── requirements.txt # Python dependencies
+|
 └── README.md
 
 
 ---
 
 ## 🔮 Future Improvements
--🧪 Cross-validation and tuning (GridSearch, Optuna)
--🛠️ Export model (joblib)
--🌐 REST API with Flask or FastAPI
--☁️ Hosting on Render or Railway
--📱 Streamlit or Gradio UI
-
+- 📊 **Cross-validation and tuning (GridSearch, Optuna)**
+- 🧹 **Export model**
+- 📏 **REST API with Flask or FastAPI**
+ 
 🙋‍♀️ About the Author
 Sreelakshmi M
 AI / Data Science Engineer
