@@ -45,20 +45,6 @@
 
 ---
 
-## 🗂️ Folder Structure
-
-Fraud-Detection-Pipeline/
-│
-|
-├── Fraud_Detection_Pipeline.py # ML pipeline code
-|
-├── requirements.txt # Python dependencies
-|
-└── README.md
-
-
----
-
 ## 🔮 Future Improvements
 - 📊 **Cross-validation and tuning (GridSearch, Optuna)**
 - 🧹 **Export model**
